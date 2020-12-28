@@ -1,1 +1,1 @@
-<a href='https://herea/tahtaselfoy?template=https://github.com/sanzking/notnot'>DEPLOY</a>
+<a href='https://heroku.com/tahtaselfoy?template=https://github.com/sanzking/notnot'>DEPLOY</a>
